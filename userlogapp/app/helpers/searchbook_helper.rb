@@ -1,0 +1,2 @@
+module SearchbookHelper
+end
